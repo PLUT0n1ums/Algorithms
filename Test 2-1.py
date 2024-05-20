@@ -26,3 +26,5 @@ def min_weight_difference_binary_search(weights):
 weights = [10, 20, 30, 40, 50]
 result = min_weight_difference_binary_search(weights)
 print("The minimum possible difference between the weights of two piles (binary search) is:", result)
+
+#you should solve it by brute-force algo. there is an error in an algo that is why the answer is not correct
